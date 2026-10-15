@@ -1,0 +1,7 @@
+{
+  "name": "PROMPTS SMS Edge Case Simulator",
+  "description": "Interactive maternal SMS conversation simulator for Jacaranda Health's PROMPTS AI, modeling EDD date ambiguity, re-enrolment triage, and gestational pathway logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
